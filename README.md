@@ -1,6 +1,6 @@
 # PetStore API Test Automation
 
-Bu proje, Swagger PetStore API'sinin Java dilinde Rest Assured ile test otomasyonunu içermektedir. Page Object Model (POM) prensibi kullanılarak hazırlanmıştır.
+Bu proje, Swagger PetStore API'sinin Java dilinde Rest Assured ile test otomasyonunu içermektedir.
 
 ## Proje Yapısı
 
